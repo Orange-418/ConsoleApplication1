@@ -1,0 +1,6 @@
+C:\Users\Dylan\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+C:\Users\Dylan\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\RiderProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\DellExpress.dll
+C:\Users\Dylan\RiderProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\DellExpress.pdb
+C:\Users\Dylan\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\DellExpress.dll
+C:\Users\Dylan\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\DellExpress.pdb
